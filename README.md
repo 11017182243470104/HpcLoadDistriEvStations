@@ -1,2 +1,2 @@
 # HpcLoadDistriEvStations
-Contains code relevant to the paper "CUSTOMER SATISFACTION IN BATTERY ELECTRIC VEHICLE FAST CHARGING SERVICE BUSINESS MODELS: A ROLE FOR INFORMATION SYSTEMS" submitted to the European Conference on Information Systems
+Contains code and data relevant to the paper "Closing the Expectation-Performance Gap in Fast Charging: A Role for IS in Electric Mobility?" submitted to the International Conference on Information Systems
