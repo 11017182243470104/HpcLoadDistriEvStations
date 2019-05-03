@@ -13,7 +13,7 @@ CapCon_smpl:		capacity Constraint of the GCP divided by the number of cars curre
 CapConMin:		minimum capacity Constraint of the GCP in kW
 CapConMax:		maximum capacity Constraint of the GCP in kW
 '''
-
+# Alighments depend on formatting standards - please check before execution
 
 # Model with linear function and quadratic deviation
 
