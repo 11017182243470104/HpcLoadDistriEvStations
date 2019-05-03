@@ -12,6 +12,7 @@ BEVcap_rest:	remaining battery capacity in kWh
 CapConMin:		minimum capacity Constraint of the GCP in kW
 CapConMax:		maximum capacity Constraint of the GCP in kW
 '''
+#Alignments depend on formatting standards
 
 import pandas as pd
 from random import *
