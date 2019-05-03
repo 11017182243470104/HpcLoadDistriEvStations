@@ -12,9 +12,9 @@ BEVcap_rest:		remaining battery capacity in kWh
 CapConMin:		minimum capacity Constraint of the GCP in kW
 CapConMax:		maximum capacity Constraint of the GCP in kW
 '''
+#Alignments depend on formatting standards - please check before execution
 
-
-# Generates random instance of Multi-CPO-Chargingpark
+# Generates random chargingpark instance 
 
 import classes
 import names
