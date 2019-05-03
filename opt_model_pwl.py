@@ -1,15 +1,15 @@
 '''
 BC: 			battery capacity in kWh
-BEVPowMax: 	    maximum power the battery is able to be charged with in kW
+BEVPowMax: 	   	maximum power the battery is able to be charged with in kW
 CapCon: 		capacity Constraint of the GCP in kW
-CapConWert: 	capacity Constraint of the GCP in kW
+CapConWert: 		capacity Constraint of the GCP in kW
 CapConAkt:		capacity Constraint of the GCP in kW
 CSPowMax:		maximum charging power of the CS in kW
 CSPowMin: 		minimum charging power of the CS in kW
 SoC:			State of Charge, battery charging level in percent
 eta: 			battery's efficiency
-BEVcap_rest:	remaining battery capacity in kWh
-CapCon_smpl:	capacity Constraint of the GCP divided by the number of cars currently charging in kW
+BEVcap_rest:		remaining battery capacity in kWh
+CapCon_smpl:		capacity Constraint of the GCP divided by the number of cars currently charging in kW
 CapConMin:		minimum capacity Constraint of the GCP in kW
 CapConMax:		maximum capacity Constraint of the GCP in kW
 '''
